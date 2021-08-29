@@ -47,14 +47,6 @@ syntax on
 colorscheme minimalist
 ```
 
-This color scheme also built-in with airline theme. If you wanna use:
-
-```viml
-let g:airline_theme='minimalist'
-let g:airline_powerline_fonts = 1
-let g:airline#extensions#tabline#enabled = 1
-```
-
 ## Support
 
 As you know, color scheme in vim by default supports many programming languages.
