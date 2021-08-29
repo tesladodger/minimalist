@@ -2,6 +2,8 @@
     <img src="https://files.dikiaap.id/img/open-source/minimalist_preview.png" alt="Minimalist on HTML">
 </p>
 
+## Fork of [dikiaap/minimalist](https://github.com/dikiaap/minimalist) 
+
 # Minimalist
 Minimalist is a Material Color Scheme Darker for Vim & inspired by
 [Material Theme](https://github.com/equinusocio/material-theme).
